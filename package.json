@@ -1,0 +1,15 @@
+{
+  "name": "project-managementt-system",
+  "version": "1.0.0",
+  "description": "A full Stack Project managemnt system with full herarchy",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.8.3"
+  }
+}
